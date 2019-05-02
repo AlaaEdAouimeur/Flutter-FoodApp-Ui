@@ -47,6 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Column(
         children: <Widget>[
           Stack(
+
             children: <Widget>[
               Container(
                 height: 250.0,
@@ -55,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
               Column(
                 children: <Widget>[
                   Container(
-                    padding: EdgeInsets.fromLTRB(15.0, 35.0, 15.0, 10.0),
+                    padding: EdgeInsets.fromLTRB(15.0, 35.1, 15.0, 10.0),
                     child: Material(
                       elevation: 10.0,
                       borderRadius: BorderRadius.circular(25.0),
