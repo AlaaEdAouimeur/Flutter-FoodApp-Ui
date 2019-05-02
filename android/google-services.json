@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810500467302",
+    "firebase_url": "https://alaaflutterapp.firebaseio.com",
+    "project_id": "alaaflutterapp",
+    "storage_bucket": "alaaflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810500467302:android:1dc78fd5c60ee5c3",
+        "android_client_info": {
+          "package_name": "com.example.fak_ing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810500467302-p3gmfkrg0jn8akikl39s7rovqgr7u68q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fak_ing",
+            "certificate_hash": "6e29e558f0e46180685ea1e71b6c1d615f27623a"
+          }
+        },
+        {
+          "client_id": "810500467302-skd61oenm2576ru6m6neke69rnlm3meq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbgzINNKWEU_wQqmWQOZ_7QGFxVgIolc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810500467302-skd61oenm2576ru6m6neke69rnlm3meq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
